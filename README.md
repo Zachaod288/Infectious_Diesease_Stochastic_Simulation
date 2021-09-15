@@ -1,1 +1,1 @@
-# Infectious_Diesease_Stochastic_Simulation
+This piece of code represents the spread of an infectious diesease based on the stochastic Susceptible, Infected, and Recovered (SIR) model. It as the user for an input of the probability that someone whos susceptible standing next to someone whos infected becomes infected themselves, The probability of once infected they recover after a number of days, and the probability that after a number of days the individual becomes susceptible again.
